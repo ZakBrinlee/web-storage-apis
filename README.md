@@ -1,3 +1,7 @@
+# Frontend Masters Course
+
+# [Web Storage APIs](https://frontendmasters.com/courses/web-storage-apis/)
+
 # Coffee Masters
 
 This is a sample Progressive Web App for playing with Frontend Masters workshops.
